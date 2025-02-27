@@ -1,0 +1,21 @@
+{
+    "name": "tuzlu07x/social-media-ai-agent",
+    "description": "A PHP-based open-source social media AI agent for automating actions",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tuzlu07x\\SocialMediaAiAgent\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fatih Tuzlu",
+            "email": "fatihtuzlu07@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9",
+        "symfony/console": "^7.2"
+    }
+}
