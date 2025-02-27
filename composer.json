@@ -5,7 +5,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Tuzlu07x\\SocialMediaAiAgent\\": "src/"
+      "Tuzlu07x\\SocialMediaAIAgent\\": "src/"
     }
   },
   "authors": [
@@ -15,9 +15,21 @@
     }
   ],
   "require": {
+    "php": "^8.0",
     "guzzlehttp/guzzle": "^7.9",
     "symfony/console": "^7.2"
   },
   "minimum-stability": "stable",
-  "prefer-stable": true
+  "prefer-stable": true,
+  "bin": [
+    "bin/agent"
+  ],
+  "keywords": [
+    "social-media",
+    "ai",
+    "automation",
+    "twitter",
+    "instagram",
+    "php"
+  ]
 }
