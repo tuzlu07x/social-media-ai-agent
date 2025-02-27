@@ -4,8 +4,8 @@
 
 ## Features
 
-- **Multi-Platform Support**: Connect to Twitter, Instagram, TikTok, LinkedIn, and more.
-- **AI Integration**: Leverage OpenAI, DeepSeek, HuggingFace, Gemini, Grok, or add your custom AI models.
+- **Multi-Platform Support**: Connect to Twitter and Instagram.
+- **AI Integration**: Leverage OpenAI, DeepSeek, HuggingFace, Grok, or add your custom AI models.
 - **Dynamic Actions**: Post text, share images, reply to messages, fetch trending topics, and more.
 - **Scheduling**: Schedule posts for future execution (real scheduler implementation pending).
 - **Modular Design**: Built with interfaces for easy extension and maintenance.
